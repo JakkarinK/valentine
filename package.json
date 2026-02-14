@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jakkarink.github.io/valentine",
+  "homepage": "https://jakkarink.github.io",
   "name": "valentine",
   "private": true,
   "version": "0.0.0",
@@ -22,6 +22,7 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-hook-form": "^7.71.1",
+    "react-router": "^7.13.0",
     "yup": "^1.7.1"
   },
   "devDependencies": {
